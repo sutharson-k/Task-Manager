@@ -316,8 +316,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Open source community for best practices
 
 ## 📞 Support
-
-- 📧 Email: sutharson20069@example.com
 - 🐛 Issues: [GitHub Issues](https://github.com/sutharson20069/professional-task-manager/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/sutharson20069/professional-task-manager/discussions)
 
