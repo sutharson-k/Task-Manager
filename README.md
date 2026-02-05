@@ -330,6 +330,6 @@ If you find this project useful:
 
 ---
 
-**Made with ❤️ by [sutharson20069](https://github.com/sutharson20069)**
+**Made with ❤️ by [sutharson-k](https://github.com/sutharson-k)**
 
 Boost your productivity with Professional Task Manager! 🚀
