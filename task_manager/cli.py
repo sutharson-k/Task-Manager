@@ -7,8 +7,8 @@ output formatting and interactive features.
 
 import argparse
 import sys
-from datetime import datetime, timedelta
-from typing import TYPE_CHECKING, List, Optional, Any
+from datetime import datetime
+from typing import TYPE_CHECKING, Any, List, Optional
 
 from rich.console import Console
 from rich.panel import Panel
