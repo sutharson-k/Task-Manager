@@ -1,7 +1,7 @@
 # Professional Task Manager 📋
 
-[![CI/CD Pipeline](https://github.com/sutharson20069/professional-task-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/sutharson20069/professional-task-manager/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/sutharson20069/professional-task-manager/branch/main/graph/badge.svg)](https://codecov.io/gh/sutharson20069/professional-task-manager)
+[![CI/CD Pipeline](https://github.com/sutharson-k/professional-task-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/sutharson-k/professional-task-manager/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/sutharson-k/professional-task-manager/branch/main/graph/badge.svg)](https://codecov.io/gh/sutharson-k/professional-task-manager)
 [![PyPI version](https://badge.fury.io/py/professional-task-manager.svg)](https://badge.fury.io/py/professional-task-manager)
 [![Python versions](https://img.shields.io/pypi/pyversions/professional-task-manager.svg)](https://pypi.org/project/professional-task-manager/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -31,7 +31,7 @@ A powerful command-line task management application with rich interface, advance
 pip install professional-task-manager
 
 # Or install from source
-git clone https://github.com/sutharson20069/professional-task-manager.git
+git clone https://github.com/sutharson-k/professional-task-manager.git
 cd professional-task-manager
 pip install -e .
 ```
@@ -195,7 +195,7 @@ ID,Title,Description,Status,Priority,Category,Due Date,Created At,Completed At,T
 
 ```bash
 # Clone repository
-git clone https://github.com/sutharson20069/professional-task-manager.git
+git clone https://github.com/sutharson-k/professional-task-manager.git
 cd professional-task-manager
 
 # Create virtual environment
@@ -316,8 +316,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Open source community for best practices
 
 ## 📞 Support
-- 🐛 Issues: [GitHub Issues](https://github.com/sutharson20069/professional-task-manager/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/sutharson20069/professional-task-manager/discussions)
+- 🐛 Issues: [GitHub Issues](https://github.com/sutharson-k/professional-task-manager/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/sutharson-k/professional-task-manager/discussions)
 
 ## 🌟 Show Your Support
 
